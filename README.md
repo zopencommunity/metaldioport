@@ -1,6 +1,6 @@
-[![Automatic version updates](https://github.com/zopencommunity/asmdioport/actions/workflows/bump.yml/badge.svg)](https://github.com/ZOSOpenTools/asmdioport/actions/workflows/bump.yml)
+[![Automatic version updates](https://github.com/zopencommunity/metaldioport/actions/workflows/bump.yml/badge.svg)](https://github.com/ZOSOpenTools/asmdioport/actions/workflows/bump.yml)
 
-# asmdio
+# metaldio
 
 Dataset I/O library
 
@@ -15,8 +15,8 @@ zopen install metaldio
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zopencommunity/asmdioport.git
-cd asmdioport
+git clone https://github.com/zopencommunity/metaldioport.git
+cd metaldioport
 ```
 2. Build using zopen:
 ```bash

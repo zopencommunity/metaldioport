@@ -1,10 +1,10 @@
 # Update bump details accordingly. Use bump check to confirm.
-# bump: asmdio-version /ASMDIO_VERSION="(.*)"/ https://github.com/MikeFultonDev/asmdio.git|semver:*
-# ASMDIO_VERSION="V.R.M" # Specify a stable release
-# export ZOPEN_STABLE_TAG="v${ASMDIO_VERSION}"
+# bump: metaldio-version /METALDIO_VERSION="(.*)"/ https://github.com/MikeFultonDev/metaldio.git|semver:*
+# METALDIO_VERSION="V.R.M" # Specify a stable release
+# export ZOPEN_STABLE_TAG="v${METALDIO_VERSION}"
 
 ###
-### Build control file for the asmdio port
+### Build control file for the metaldio port
 ###
 
 ###
