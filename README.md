@@ -1,4 +1,4 @@
-[![Automatic version updates](https://github.com/zopencommunity/metaldioport/actions/workflows/bump.yml/badge.svg)](https://github.com/ZOSOpenTools/asmdioport/actions/workflows/bump.yml)
+[![Automatic version updates](https://github.com/zopencommunity/metaldioport/actions/workflows/bump.yml/badge.svg)](https://github.com/ZOSOpenTools/metaldioport/actions/workflows/bump.yml)
 
 # metaldio
 
