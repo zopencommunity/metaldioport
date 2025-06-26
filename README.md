@@ -8,7 +8,7 @@ Dataset I/O library
 
 Use the zopen package manager ([QuickStart Guide](https://zopen.community/#/Guides/QuickStart)) to install:
 ```bash
-zopen install asmdio
+zopen install metaldio
 ```
 
 # Building from Source

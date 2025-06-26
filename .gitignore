@@ -4,4 +4,4 @@ log.STABLE/
 build/
 install/
 .zoslib_hooks
-asmdio/
+metaldio/
