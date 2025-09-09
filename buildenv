@@ -15,9 +15,8 @@
 export ZOPEN_BUILD_LINE="STABLE"
 
 ## Required IF ZOPEN_BUILD_LINE='STABLE'
-export ZOPEN_STABLE_URL="https://github.com/IgorTodorovskiIBM/asmdio.git"  # Specify the stable build URL (either git or tarball)
+export ZOPEN_STABLE_URL="https://github.com/MikeFultonDev/metaldio.git"  # Specify the stable build URL (either git or tarball)
 export ZOPEN_STABLE_DEPS="make coreutils" # Specify the stable build dependencies.
-export ZOPEN_STABLE_TAG="igor"
 
 ## Required IF ZOPEN_BUILD_LINE='DEV'
 export ZOPEN_DEV_URL=""   # Specify the dev build URL
